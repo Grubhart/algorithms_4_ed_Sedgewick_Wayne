@@ -1,4 +1,4 @@
-package org.grubhart.algorithms;
+package org.grubhart.algorithms.ch1;
 
 public class Fundamentals {
 

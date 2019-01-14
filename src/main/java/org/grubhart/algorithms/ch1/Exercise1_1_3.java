@@ -1,6 +1,6 @@
-package org.grubhart.algorithms;
+package org.grubhart.algorithms.ch1;
 
-public class exercise1_1_3{
+public class Exercise1_1_3 {
 
     public static void main(String[] args) {
         int number1 = Integer.parseInt(args[0]);
