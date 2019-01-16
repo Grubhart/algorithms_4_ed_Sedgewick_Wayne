@@ -14,10 +14,8 @@ public class Exercise1_1_11 {
                 }else{
                     booleanMatrix[i][j]=false;
                 }
-
             }
         }
-
 
         printMatrix(fila, col, booleanMatrix);
     }
